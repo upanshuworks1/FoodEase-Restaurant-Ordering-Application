@@ -1,0 +1,1 @@
+Requirements and design documentation covering the Business Requirements Document (BRD), Functional Requirements Document (FRD), Software Requirements Specification (SRS), user stories, acceptance criteria and Requirements Traceability Matrix (RTM).
