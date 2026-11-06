@@ -72,3 +72,37 @@ This is a hypothetical learning and portfolio simulation created to demonstrate 
 ---
 
 **Portfolio Purpose:** Demonstrate practical understanding of the Software Development Life Cycle (SDLC) and project management documentation through a structured end-to-end project simulation.
+
+
+---
+
+## Project Documentation
+
+Explore the complete project management documentation below:
+
+| Folder | Documentation |
+|---|---|
+| 01. Project Initiation | [View Documents](./01_Project_Initiation/) |
+| 02. Project Planning | [View Documents](./02_Project_Planning/) |
+| 03. Requirements & Design | [View Documents](./03_Requirements_And_Design/) |
+| 04. Agile & Execution | [View Documents](./04_Agile_And_Execution/) |
+| 05. Testing & Quality Assurance | [View Documents](./05_Testing_And_QA/) |
+| 06. Release & Deployment | [View Documents](./06_Release_And_Deployment/) |
+| 07. Project Closure | [View Documents](./07_Project_Closure/) |
+
+## Skills Demonstrated
+
+- Project Initiation and Scope Management
+- Project Planning and Work Breakdown Structure (WBS)
+- Stakeholder and Risk Management
+- Business Requirements and Functional Documentation
+- Agile and Scrum Project Execution
+- Sprint Planning and Backlog Management
+- Software Testing and Defect Management
+- User Acceptance Testing (UAT)
+- Release and Deployment Coordination
+- Project Closure and Handover
+
+## Important Disclaimer
+
+FoodEase is a hypothetical project simulation created for learning and portfolio demonstration purposes. All project details, budgets, schedules, stakeholders, test scenarios and outcomes are illustrative and do not represent an actual software deployment.
